@@ -1,5 +1,7 @@
 # COMP3331
 Computer Networks
+
+
 Lab1 mark: 9.4/10
 Lab1Feedback: {ex3q1: 21 routers - last hop is destination server, not a router; hops 1 - 5 all belong to UNSW even though hop 2 doesn't have a PTR record (-0.1); 7th hop is in nsw, 8th in honolulu, 9th in seattle (-0.5) | ex4q4: processing delay also, but to a much lesser degree (it takes longer to calc checksum of a larger packet)}
 
